@@ -68,3 +68,7 @@ Revenue distribution suggests upsell opportunities in Premium tiers.
 ![Overview](dashboard/overview.png)
 ![Churn Analysis](dashboard/churn_analysis.png)
 ![KPI Overview](dashboard/kpis.png)
+
+## ⚠ Limitations
+This project uses a synthetic dataset for simulation purposes.  
+While the analytical structure reflects real-world BI workflows, results are not based on live operational data.
